@@ -9,7 +9,7 @@ module.exports = {
     "status": "",
 
     "game": {
-        "applicationID": "1493690454603071489",
+        "applicationID": "",
 
         "name": "", // title
         "details": "", // first row below title
@@ -18,7 +18,7 @@ module.exports = {
         "largeImageKey": "", // Large Image
         "largeImageText": "", // the text when img surrounded (default is largeimage name in dev portal)
 
-        "smallImageKey": "screenshot_2026-04-14_232059", // Small Image
+        "smallImageKey": "", // Small Image
         "smallImageText": "",
         
         // Date.now() Epoch timestamps
