@@ -2,14 +2,14 @@
 
 module.exports = {
     // discord bot token
-    "token": "",
+    "token": "MTQ5MzY5MDQ1NDYwMzA3MTQ4OQ.G4mfIy.7nLhfC4PtvA3cDbSG726Brd9XpG-5rxMhv1etg",
     // spotify/game/twitch
     "mode": "", 
     // dnd/online/idle
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1493690454603071489",
 
         "name": "", // title
         "details": "", // first row below title
@@ -18,7 +18,7 @@ module.exports = {
         "largeImageKey": "", // Large Image
         "largeImageText": "", // the text when img surrounded (default is largeimage name in dev portal)
 
-        "smallImageKey": "", // Small Image
+        "smallImageKey": "screenshot_2026-04-14_232059", // Small Image
         "smallImageText": "",
         
         // Date.now() Epoch timestamps
