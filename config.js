@@ -2,7 +2,7 @@
 
 module.exports = {
     // discord bot token
-    "token": "MTQ5MzY5MDQ1NDYwMzA3MTQ4OQ.G4mfIy.7nLhfC4PtvA3cDbSG726Brd9XpG-5rxMhv1etg",
+    "token": "MTQ5MzY5MDQ1NDYwMzA3MTQ4OQ.GAPfZj.lubmrY-9lVsWZSaIPhnnzXFfFJh1hini-Hc0lk",
     // spotify/game/twitch
     "mode": "", 
     // dnd/online/idle
